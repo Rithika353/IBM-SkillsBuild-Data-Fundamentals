@@ -128,4 +128,12 @@ Data-Analytics-Learning-Journey
 If you found this repository useful, feel free to ⭐ star the repository and explore the content.
 
 ---
+# 🏆 Certifications
+
+### IBM SkillsBuild – Data Fundamentals
+
+- Issued by IBM SkillsBuild
+- Earned: July 2026
+
+🔗 Credential Verification:https://www.credly.com/badges/124d093f-e707-4da1-9058-5e80f7c94e1c/public_url
 
